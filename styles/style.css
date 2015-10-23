@@ -1,3 +1,4 @@
+/*
 h1:hover {
   color: brown;
 }
@@ -10,6 +11,7 @@ header {
   margin: auto;
 }
 article {
+  text-align: center;
   width: 60%;
   margin: auto;
 }
@@ -19,4 +21,21 @@ p::firstletter {
 footer {
   border: 2px solid magenta;
   border-radius: 25px;
+}*/
+
+header img {
+  width: 33%;
+  border: 2px;
+}
+nav a {
+  text-decoration: line-through;
+}
+a {
+  text-decoration: none;
+}
+p {
+  color: magenta; 
+}
+p {
+  color: orange;
 }
